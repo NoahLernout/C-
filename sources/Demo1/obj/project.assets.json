@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noahl\\OneDrive\\Documenten\\2024-2025\\2 semester\\Advanced software engineering\\2024-2025-ctai-advanced-software-engineering-week01-NoahLernout\\C-\\sources\\Demo1\\Demo1.csproj",
+      "projectUniqueName": "C:\\Users\\noahl\\OneDrive\\Documenten\\2024-2025\\2_semester\\Advanced software engineering\\2024-2025-ctai-advanced-software-engineering-week01-NoahLernout\\C-\\sources\\Demo1\\Demo1.csproj",
       "projectName": "Demo1",
-      "projectPath": "C:\\Users\\noahl\\OneDrive\\Documenten\\2024-2025\\2 semester\\Advanced software engineering\\2024-2025-ctai-advanced-software-engineering-week01-NoahLernout\\C-\\sources\\Demo1\\Demo1.csproj",
+      "projectPath": "C:\\Users\\noahl\\OneDrive\\Documenten\\2024-2025\\2_semester\\Advanced software engineering\\2024-2025-ctai-advanced-software-engineering-week01-NoahLernout\\C-\\sources\\Demo1\\Demo1.csproj",
       "packagesPath": "C:\\Users\\noahl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noahl\\OneDrive\\Documenten\\2024-2025\\2 semester\\Advanced software engineering\\2024-2025-ctai-advanced-software-engineering-week01-NoahLernout\\C-\\sources\\Demo1\\obj\\",
+      "outputPath": "C:\\Users\\noahl\\OneDrive\\Documenten\\2024-2025\\2_semester\\Advanced software engineering\\2024-2025-ctai-advanced-software-engineering-week01-NoahLernout\\C-\\sources\\Demo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noahl\\AppData\\Roaming\\NuGet\\NuGet.Config"
